@@ -13,11 +13,7 @@
     </head>
     <body>
         <h1>Hello Githud!</h1>
-         <h1>Hello Githud!</h1>
-          <h1>Hello Githud!</h1> 
-          <h1>Hello Githud!</h1>
-           <h1>Hello Githud!</h1>
-          
+         
           
     </body>
 </html>
